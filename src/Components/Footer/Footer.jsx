@@ -20,7 +20,7 @@ const Footer = () => {
             <a href="/">HOME</a>
           
             <a href="/Howtoplay">FEATURES</a>
-            <a href="/faqs">CONTACT</a>
+            <a href="/Contact">CONTACT</a>
             <a href="/user-says">USERS </a>
             <a href="/TermsAndCondition">Terms And Condition</a>
             <a href="/privacy_policy">Privacy Policy</a>
