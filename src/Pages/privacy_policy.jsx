@@ -447,7 +447,7 @@ const PrivacyPolicy = () => {
         <p style={styles.paragraph}>
           <strong>Contact Information:</strong>
           <ul style={styles.list}>
-            <li>Email: support@gamewinner.today</li>
+            <li>Email: support@ipl2022.shop</li>
             <li>Address: Accelerator Coworking Space, Ground Floor, MGF Metropolis Mall, Mehrauli-Gurgaon Rd, Gurugram, Haryana 122002</li>
           </ul>
         </p>
