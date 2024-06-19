@@ -685,7 +685,7 @@ const TermsAndConditions = () => {
 
         <h2 style={styles.subHeader}>20. Miscellaneous</h2>
         <p style={styles.section}>
-          Under the relevant legislation, VIRAT11Fantasy is obliged to notify Users of various events. By accepting these Terms and Conditions, the Users give their consent that such notifications issued and posted by VIRAT11Fantasy on www.iplfanfantasy.shop and VIRAT11Fantasy application or conveyed via email, provided by the customer during registration, shall be considered adequate and authorised and shall take effect upon receipt by the customers. VIRAT11Fantasy shall not be held liable for any loss of information or failure to notify the User if the User fails to provide accurate and adequate information during registration.
+          Under the relevant legislation, VIRAT11Fantasy is obliged to notify Users of various events. By accepting these Terms and Conditions, the Users give their consent that such notifications issued and posted by VIRAT11Fantasy on www.ipl2022.shop and VIRAT11Fantasy application or conveyed via email, provided by the customer during registration, shall be considered adequate and authorised and shall take effect upon receipt by the customers. VIRAT11Fantasy shall not be held liable for any loss of information or failure to notify the User if the User fails to provide accurate and adequate information during registration.
         </p>
         <p style={styles.section}>
           VIRAT11Fantasy shall not be held responsible for any delay or failure in notifying Users, organising/providing services, features and Contest(s) due to circumstances outside the control of VIRAT11Fantasy, including but not limited to acts of God, war, terrorism, riots, embargoes, acts of civil or military authorities, fire, floods, accidents, network infrastructure failures, strikes, shortages of transportation facilities, fuel, energy, labour or materials or any cancellation of any match related to a Contest. In such events, VIRAT11Fantasy reserves the right to cancel any related Contest(s) and to process a relevant refund for all Participants.
@@ -694,16 +694,16 @@ const TermsAndConditions = () => {
           VIRAT11Fantasy’s failure to exercise or enforce any right or provision of these Terms and Conditions shall not be deemed a waiver of such right or provision.
         </p>
         <p style={styles.section}>
-          By accepting these Terms and Conditions, Users give their consent that any claim or cause of action arising from or related to the use of www.iplfanfantasy.shop and VIRAT11Fantasy application or these Terms and Conditions must be filed within thirty (30) days of such claim or cause of action arises, or it will be barred forever.
+          By accepting these Terms and Conditions, Users give their consent that any claim or cause of action arising from or related to the use of www.ipl2022.shop and VIRAT11Fantasy application or these Terms and Conditions must be filed within thirty (30) days of such claim or cause of action arises, or it will be barred forever.
         </p>
         <p style={styles.section}>
-          These Terms and Conditions, including all incorporated terms, conditions and policies, constitute the entire agreement between the user/(s) and VIRAT11Fantasy Fantasy Sports Private Limited, and govern the use of www.iplfanfantasy.shop, superseding any prior agreements between the User(s) and VIRAT11Fantasy Gaming Private Limited.
+          These Terms and Conditions, including all incorporated terms, conditions and policies, constitute the entire agreement between the user/(s) and VIRAT11Fantasy Fantasy Sports Private Limited, and govern the use of www.ipl2022.shop, superseding any prior agreements between the User(s) and VIRAT11Fantasy Gaming Private Limited.
         </p>
         <p style={styles.section}>
           If any part of these Terms and Conditions defined by VIRAT11Fantasy is deemed indefinite, invalid or unenforceable, the remaining provisions shall remain in full force.
         </p>
         <p style={styles.section}>
-          VIRAT11Fantasy reserves the right to moderate, restrict or ban the use of VIRAT11Fantasy application and www.iplfanfantasy.shop for any particular user or generally, under VIRAT11Fantasy’s policy from time to time, at its sole and absolute discretion and without prior notice.
+          VIRAT11Fantasy reserves the right to moderate, restrict or ban the use of VIRAT11Fantasy application and www.ipl2022.shop for any particular user or generally, under VIRAT11Fantasy’s policy from time to time, at its sole and absolute discretion and without prior notice.
         </p>
         <p style={styles.section}>
           VIRAT11Fantasy reserves the right to permanently close or temporarily suspend any features, including Contest(s).
